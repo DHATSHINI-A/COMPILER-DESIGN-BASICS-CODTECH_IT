@@ -30,4 +30,4 @@ The main() function serves as the entry point of the application. It prompts the
 Overall, this Arithmetic Expression Evaluator provides a clear and practical introduction to how programming languages interpret and evaluate expressions. It highlights essential compiler concepts such as grammar-based parsing, operator precedence, recursion, and structured program design. The project is particularly useful for students and beginners who want to bridge the gap between theoretical compiler design concepts and real-world implementation using C++.
 
 # OUTPUT
-
+<img width="406" height="47" alt="Image" src="https://github.com/user-attachments/assets/ccf980d5-45aa-4532-aa52-f24cdc3d9014" />
