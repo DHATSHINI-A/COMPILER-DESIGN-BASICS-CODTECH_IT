@@ -1,5 +1,17 @@
 # COMPILER-DESIGN-BASICS-CODTECH_IT
 
+*COMPANY *: CODTECH IT SOLUTIONS
+
+NAME: DHATSHINI A
+
+INTERN ID: CTIS2275
+
+DOMAIN: C++ PROGRAMMING
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTHOSH
+
 # DESCRIPTION 
 The Arithmetic Expression Evaluator is a C++ console-based application developed to demonstrate fundamental concepts of compiler design, including lexical analysis, syntax parsing, and expression evaluation. This project focuses on how arithmetic expressions are processed internally by compilers or interpreters using structured grammar rules and recursive parsing techniques.
 
